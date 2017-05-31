@@ -1,4 +1,17 @@
 ###################
+penjualan-hp-codeigniter
+###################
+
+Tentang Program / About apps
+Aplikasi penjualan online hp dengan menggunakan
+- Codeigniter 3
+- Boostrap
+- Php
+- Mysql
+
+### Tampilan / Preview
+
+###################
 What is CodeIgniter
 ###################
 
